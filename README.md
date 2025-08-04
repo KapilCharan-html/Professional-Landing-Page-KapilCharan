@@ -16,11 +16,6 @@ A modern, responsive landing page built with HTML5, CSS3, and AOS (Animate On Sc
 
 ---
 
-## 📸 Preview
-
-![Landing Page Screenshot](./images/preview.png) <!-- optional: add screenshot to `images/` folder -->
-
----
 
 ## 🛠️ Tech Stack
 
